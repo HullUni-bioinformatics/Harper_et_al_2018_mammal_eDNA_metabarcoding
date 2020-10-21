@@ -2,7 +2,7 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals.
+Harper *et al.* (2019) Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals. *Biological Conservation*, __238__, 108225. https://doi.org/10.1016/j.biocon.2019.108225
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2561415.svg)](https://doi.org/10.5281/zenodo.2561415)
 
